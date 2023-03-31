@@ -50,13 +50,9 @@ This project is not intended for deployment on a live system.
 
 Contributions are welcome. Please open an issue or submit a pull request if you would like to contribute to this project.
 
-## Versioning
-
-This project does not use any versioning system.
-
 ## Authors
 
-* **Your Name** - *Initial work*
+* **Aryan Bajaj** - *Initial work*
 
 ## License
 
